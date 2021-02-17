@@ -9,6 +9,13 @@ curl https://codeload.github.com/dchole/next-material-template/tar.gz/main | tar
 cd next-material-template-main
 ```
 
+or create repo from this template with github cli:
+
+```sh
+gh repo create next-material-template --template https://github.com/dchole/next-material-template
+cd next-material-template
+```
+
 Install it and run:
 
 ```sh
