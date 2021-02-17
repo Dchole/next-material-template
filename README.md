@@ -5,8 +5,7 @@
 Download the example [or clone the repo](https://github.com/dchole/next-material-template):
 
 ```sh
-curl https://codeload.github.com/dchole/next-material-template/tar.gz/main |
-tar -xz
+curl https://codeload.github.com/dchole/next-material-template/tar.gz/main | tar -xz
 cd next-material-template-main
 ```
 
