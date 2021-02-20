@@ -2,14 +2,16 @@
 
 ## How to use
 
-Download the example [or clone the repo](https://github.com/dchole/next-material-template):
+### Download the template [or clone the repo](https://github.com/dchole/next-material-template):
 
 ```sh
 curl https://codeload.github.com/dchole/next-material-template/tar.gz/main | tar -xz
 cd next-material-template-main
 ```
 
-or create repo from this template with github cli:
+**OR**
+
+Create a repo from this template with github cli:
 
 ```sh
 gh repo create next-material-template --template https://github.com/dchole/next-material-template
@@ -22,7 +24,7 @@ and then sync remote repo with local directory:
 source .gitsetup
 ```
 
-Install it and run:
+## Install it and run:
 
 ```sh
 yarn
