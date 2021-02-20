@@ -1,4 +1,4 @@
-# Create React App example with TypeScript
+# Create Next App template with TypeScript
 
 ## How to use
 
