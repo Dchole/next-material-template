@@ -16,6 +16,12 @@ gh repo create next-material-template --template https://github.com/dchole/next-
 cd next-material-template
 ```
 
+and then sync remote repo with local directory:
+
+```sh
+source .gitsetup
+```
+
 Install it and run:
 
 ```sh
