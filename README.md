@@ -31,6 +31,8 @@ yarn
 yarn dev
 ```
 
+run `yarn` to install all dependencies and then `yarn dev` to start development server
+
 ## The idea behind the example
 
 This template is from the [nextjs-with-typescript](https://github.com/mui-org/material-ui/tree/next/examples/nextjs-with-typescript) example in the [material-ui docs](https://material-ui.com/getting-started/example-projects/). It has the `@material-ui` configuration with my custom file structure. Feel free to do your own changes
